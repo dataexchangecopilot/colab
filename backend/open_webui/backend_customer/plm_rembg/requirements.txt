@@ -1,0 +1,20 @@
+jsonschema # need
+# numpy==1.26.4
+# onnxruntime
+# opencv-python-headless
+# pillow
+pooch # need
+pymatting # need
+# scikit-image
+# scipy
+# tqdm
+	
+#aiohttp
+# asyncer
+# click
+# fastapi
+# filetype
+# #gradio
+# python-multipart
+# #uvicorn
+# watchdog

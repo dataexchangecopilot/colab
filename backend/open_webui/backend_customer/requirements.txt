@@ -1,0 +1,87 @@
+# plm_search
+# python-dotenv
+
+# torch
+# tensorflow
+# tensorflow-hub
+
+# huggingface-hub
+langchain-huggingface # need
+
+# read csv /excel 2 pandas
+# numpy==1.26.4
+# pandas
+# et-xmlfile
+# openpyxl
+
+#for convert voice 2 text
+SpeechRecognition # need
+SpeechRecognition[whisper-local] # need
+ffmpeg-python # need
+# llm
+# openai
+# psutil
+
+# data loader
+#unstructured
+#unstructured[local-pdf]
+#unstructured[local-inference]
+#flashrank
+
+#langchain
+# langchain
+# langchain-community
+langchain-chroma #need
+langchain-google-genai==2.0.0 # need
+langchain-ollama # need
+###############
+# remove image background
+jsonschema #need
+# onnxruntime
+# opencv-python-headless
+# pillow
+pooch # need
+pymatting #need
+# scikit-image
+# scipy
+#tqdm
+	
+#aiohttp
+#asyncer
+#click
+#fastapi
+#filetype
+#gradio
+#python-multipart
+#uvicorn
+#watchdog
+##############
+easyocr #need
+# torchvision>=0.5
+# python-bidi
+# PyYAML
+# Shapely
+# pyclipper
+# ninja
+
+#google speech 2 text
+google-cloud-speech #need
+
+# fashion clip
+fashion-clip # need
+# protobuf==4.25.5
+# xlrd
+
+ollama # need
+gradio_client # need
+
+# youtube
+youtube-transcript-api # need
+yt-dlp # need
+
+# openai clip
+torchvision # need
+openai-clip # need
+
+#hatch install
+hatch #need
